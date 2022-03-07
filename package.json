@@ -1,0 +1,9 @@
+{
+    "name": "Tab Task",
+    "description": "",
+    "authors": "Daniel Lammens",
+    "version": "1.0.0",
+    "main": "background.js",
+    "dependencies": {
+        "uuid": "8.3.2"}
+}

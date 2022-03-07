@@ -1,0 +1,10 @@
+{
+    "name": "Tab Task",
+    "manifest_version": 3,
+    "version": "1.0",
+    "permissions": ["cookies", "tabs"],
+    "host_permissions": ["<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    }
+  }
